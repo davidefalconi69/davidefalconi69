@@ -4,10 +4,10 @@ My name is Davide Falconi, and I'm a computer engineering student at the [Univer
 
 ## My tech stack 🛠️
 
-- Languages: C, C++, C#, Java, Python, HTML, CSS, JavaScript, and PHP
-- Frameworks: Bootstrap and jQuery
+- Languages: C, C++, C#, Java, Python, HTML, CSS, JavaScript, PHP and others
+- Frameworks: Bootstrap, jQuery and others
 - Databases: MySQL and MongoDB
-- Tools: Git, GitHub, and VS Code
+- Tools: Git, GitHub, VS Code and others
 
 ## Contact me 📫
 
