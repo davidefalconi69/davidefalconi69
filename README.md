@@ -1,31 +1,19 @@
-# Hi there 👋
+# Hi there, I'm Davide Falconi 👋
 
-My name is Davide Falconi, and I'm a computer engineering student at the [University of Bergamo (UniBG)](https://www.unibg.it/). I'm passionate about programming, cybersecurity and learning new technologies.
+I am a **Computer Engineering** student at the **University of Bergamo (UniBg)**.
 
-## My tech stack 🛠️
+I have a strong passion for **Computer Science** and **Engineering** in general, with a specific interest in **Networking** and **Cloud Computing**.
 
-- Languages: C, C++, C#, Java, Python, HTML, CSS, JavaScript, and PHP
-- Frameworks: Bootstrap and jQuery
-- Databases: MySQL and MongoDB
-- Tools: Git, GitHub, and VS Code
+---
 
-## Contact me 📫
+### Let's get in touch / Mettiamoci in contatto
 
-You can reach me at my private email: falconi.davide1@gmail.com
+[![Email](https://img.shields.io/badge/Email-falconi.davide1%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:falconi.davide1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davide%20Falconi-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidefalconi69/)
+[![Telegram](https://img.shields.io/badge/Telegram-@Davice-26A5E4?logo=telegram&logoColor=white)](https://t.me/Davice/)
 
-Or follow me on these platforms:
+---
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/davidefalconi69/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.reddit.com/user/DFalconD">
-    <img src="https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
-  <a href="https://t.me/Davice">
-    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://discord.com/users/217670495896731648">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+Sono uno studente di **Ingegneria Informatica** presso l'**Università degli Studi di Bergamo (UniBg)**.
+
+Ho una grande passione per l'**informatica** e l'**ingegneria** in generale, con un interesse particolare per il **Networking** e il **Cloud Computing**.
